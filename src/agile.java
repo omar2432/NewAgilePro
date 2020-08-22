@@ -5,6 +5,7 @@ public class agile {
             System.out.println("Hello World!");
             add();
             subtract();
+            divide.divide();
         }
 
 
